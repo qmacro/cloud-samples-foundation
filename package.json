@@ -7,7 +7,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/SAP/cloud-samples-foundation.git"
+		"url": "https://github.com/qmacro/cloud-samples-foundation.git"
 	},
 	"private": true
 }
